@@ -17,7 +17,7 @@ Este projeto tem como objetivo desenvolver um sistema de Internet das Coisas (Io
 ## 🔗 Links
 - [**Projeto no Wokwi**](https://wokwi.com/projects/435576484318505985)
 - [**Canal no ThingSpeak**](https://thingspeak.mathworks.com/channels/3003027)
-- [**Video Demonstração**](#)
+- [**Video Demonstração**](https://youtu.be/slCoLUx04-w)
 
 ## 💡 Contexto do Problema e Relevância
 
@@ -172,13 +172,13 @@ Para testar ou modificar este projeto:
 ## - Simulação (Nível de Água Médio)
 ![Imagem Simulação Nível de água médio.](https://github.com/user-attachments/assets/567b978b-2a5e-49fa-a8ec-a299c7acac79)
 
-## - Simulação (Nível Água Alto)
+## - Simulação (Nível de Água Alto)
 ![Imagem Simulação Nível de água alto.](https://github.com/user-attachments/assets/26d1cba4-32d9-4d72-ad98-5c8e252c5f35)
 
-## - Simulação (Nível Água Excessivo)
+## - Simulação (Nível de Água Excessivo)
 ![Imagem Simulação Nível de água excessivo.](https://github.com/user-attachments/assets/7b0e248e-11a4-4a01-b65a-d63740765688)
 
-## - Simulação (Nível Água Indefinido)
+## - Simulação (Nível de Água Indefinido)
 ![Imagem Simulação Nível Indefinido.](https://github.com/user-attachments/assets/04e45df7-a0b5-477e-9007-851b7b6114ab)
 
 ## 📈 Gráficos do ThingSpeak
@@ -191,5 +191,5 @@ Aqui estão exemplos dos gráficos gerados na plataforma ThingSpeak, demonstrand
 
 # 🎬 Vídeos Demonstrativos (Youtube)
 
-- [**Execução Completa do Projeto (Simulação):**](https://SEU_LINK_DO_VIDEO_AQUI) Demonstração do funcionamento do projeto no Wokwi e a integração com a plataforma ThingSpeak.
-- [**Vídeo Complementar (Projeto Real):**](https://SEU_LINK_DO_VIDEO_COMPLEMENTAR_AQUI) Exemplo da aplicação e funcionamento em um projeto real utilizando o sensor HC-SR04.
+- [**Execução Completa do Projeto (Simulação):**](https://youtu.be/slCoLUx04-w) Demonstração do funcionamento do projeto no Wokwi e a integração com a plataforma ThingSpeak.
+- [**Vídeo Complementar (Projeto Real):**](https://www.youtube.com/watch?v=1AVl-QxxKnE) Exemplo da aplicação e funcionamento em um projeto real utilizando o sensor HC-SR04.
